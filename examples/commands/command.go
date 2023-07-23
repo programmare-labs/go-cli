@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	cli "github.com/edufschmidt/go-cli"
+	cli "github.com/programmare-labs/go-cli"
 	"github.com/spf13/pflag"
 )
 

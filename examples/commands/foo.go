@@ -4,7 +4,7 @@ import (
 	"context"
 	"strings"
 
-	cli "github.com/edufschmidt/go-cli"
+	cli "github.com/programmare-labs/go-cli"
 )
 
 // FooCommand :

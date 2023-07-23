@@ -1,4 +1,4 @@
-module github.com/edufschmidt/go-cli
+module github.com/programmare-labs/go-cli
 
 go 1.18
 

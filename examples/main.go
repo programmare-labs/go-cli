@@ -12,8 +12,8 @@ import (
 	"runtime"
 	"runtime/debug"
 
-	"github.com/edufschmidt/go-cli"
-	command "github.com/edufschmidt/go-cli/examples/commands"
+	"github.com/programmare-labs/go-cli"
+	command "github.com/programmare-labs/go-cli/examples/commands"
 )
 
 func panicHandler() {
